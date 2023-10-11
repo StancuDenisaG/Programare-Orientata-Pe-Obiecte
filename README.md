@@ -1,2 +1,3 @@
 # Programare Orientata Pe Obiecte
+Proiectul gestionare a unui magazin în C++, cu un accent puternic pe programarea orientata pe obiecte (OOP). Am folosit principii OOP precum mostenirea, incapsularea si polimorfismul, asigurand flexibilitate si extensibilitate. Pentru a gestiona eficient datele, am folosit vectori si liste STL. Componentele cheie au inclus o clasă de bază Produs pentru reprezentarea produsului, o clasă Client pentru gestionarea clientilor si o clasă Furnizor pentru detaliile furnizorului. Am demonstrat, de asemenea, clase abstracte, operatori de supraincărcare si polimorfism.
  
